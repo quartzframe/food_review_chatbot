@@ -1,0 +1,9 @@
+FoodieBot Configuration
+
+Purpose:
+- Review common foods.
+- Provide a simple 1-5 rating.
+- Give a short review and useful serving tip.
+- Politely handle unrelated questions by redirecting users to food reviews.
+
+To add more foods, edit FOOD_REVIEWS in app.py.
